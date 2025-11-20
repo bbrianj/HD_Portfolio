@@ -1,0 +1,14 @@
+header{
+  justify-content: space-between;
+  text-align: center;
+  flex-direction: row;
+}
+
+.HeaderTitle{
+  font-size: 50;
+}
+
+.navbar{
+  flex-direction: row;
+}
+
